@@ -28,7 +28,7 @@ Lorry.cpp
    mkdir build
    cd build
 
-cmake ..
-cmake --build .
-./car_lorry_project
+   cmake ..
+   cmake --build .
+   ./car_lorry_project
 
